@@ -1,3 +1,4 @@
+
 export const GAMES_DATA = [
   {
     id: '2048',

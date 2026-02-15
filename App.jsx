@@ -1,3 +1,4 @@
+
 import React, { useState, useMemo, useEffect } from 'react';
 import { GAMES_DATA } from './data/games';
 import GameCard from './components/GameCard';
